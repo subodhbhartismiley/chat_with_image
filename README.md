@@ -9,4 +9,4 @@ pass request in below json format:
     "session_id": "ec3dfb42-7500-4385-9cd4-7500a6f37e93"
 }
 
-if first query no need to supply session_id query.
+if first query no need to supply session_id in request.
